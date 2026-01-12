@@ -2,6 +2,12 @@
 
 Java Swing ile geliştirilmiş modern, zengin özellikli bir metin editörü. Sözdizimi vurgulama, çoklu dosya formatı desteği ve şık karanlık mod arayüzü içerir.
 
+## Ekran Görüntüleri
+
+![NotePad Açık Mod](screenshots/screenshot1.png)
+
+![NotePad Karanlık Mod](screenshots/screenshot2.png)
+
 ## Özellikler
 
 - **Çoklu Sekme Arayüzü**: Aynı anda birden fazla dosya ile çalışın
